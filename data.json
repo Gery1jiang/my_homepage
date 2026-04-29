@@ -1,0 +1,2164 @@
+{
+  "bookmarksTree": {
+    "id": "root",
+    "name": "根目录",
+    "type": "folder",
+    "children": [
+      {
+        "id": "1777448882286-bclebi31",
+        "name": "收藏夹栏",
+        "type": "folder",
+        "children": [
+          {
+            "id": "1777448882286-kmemvphy",
+            "name": "AI工具",
+            "type": "folder",
+            "children": [
+              {
+                "id": "1777448882286-esjfoqaa",
+                "name": "即梦AI",
+                "url": "https://jimeng.jianying.com/ai-tool/generate",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-nnx306hn",
+                "name": "tokens",
+                "type": "folder",
+                "children": [
+                  {
+                    "id": "1777448882286-jo1fvy23",
+                    "name": "智谱清言",
+                    "url": "https://chatglm.cn/main/createClaw?lang=zh",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-xxq5o329",
+                    "name": "GitHub",
+                    "url": "https://github.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-7g5cvejy",
+                    "name": "全部 Seedance 提示词 | Seedance2Prompt",
+                    "url": "https://www.seedance2prompt.com/zh/prompts",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-pdn1tgky",
+                    "name": "Activity | OpenRou",
+                    "url": "https://openrouter.ai/activity",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-bq67jmn2",
+                    "name": "LLM Rankings | OpenRouter",
+                    "url": "https://openrouter.ai/rankings",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-a4dkxskp",
+                    "name": "中国超算",
+                    "url": "https://www.scnet.cn/ui/chatbot/openclaw",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-jk5jjv43",
+                    "name": "阿里百炼控制台",
+                    "url": "https://bailian.console.aliyun.com/cn-beijing/?spm=a2c4g.11186623.0.0.256d757ew8eXI4&tab=model#/api-key",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-n1989ud8",
+                    "name": "AI Model & API Providers Analysis | Artificial Analysis",
+                    "url": "https://artificialanalysis.ai/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-pu5vgz3y",
+                    "name": "SiliconCloud",
+                    "url": "https://cloud.siliconflow.cn/me/models",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-n0n4jchp",
+                    "name": "LongCat AI",
+                    "url": "https://longcat.chat/platform/usage",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-0z2isn7g",
+                    "name": "Activity | OpenRouter",
+                    "url": "https://openrouter.ai/activity",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-nv092hfr",
+                    "name": "LLM Rankings | OpenRouter",
+                    "url": "https://openrouter.ai/rankings",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-3psk8lm4",
+                    "name": "中国超算",
+                    "url": "https://www.scnet.cn/ui/chatbot/openclaw",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-34arfp4k",
+                    "name": "阿里百炼控制台",
+                    "url": "https://bailian.console.aliyun.com/cn-beijing/?spm=a2c4g.11186623.0.0.256d757ew8eXI4&tab=model#/api-key",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-17w0d1w2",
+                    "name": "AI Model & API Providers Analysis | Artificial Analysis",
+                    "url": "https://artificialanalysis.ai/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-fgriqoiu",
+                    "name": "SiliconCloud",
+                    "url": "https://cloud.siliconflow.cn/me/models",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-tyo6gnng",
+                    "name": "LongCat AI",
+                    "url": "https://longcat.chat/platform/usage",
+                    "type": "bookmark"
+                  }
+                ]
+              },
+              {
+                "id": "1777448882286-8vh03nc7",
+                "name": "通义千问",
+                "url": "https://qianwen.aliyun.com/?chatId=6aac401df4174607b481cdcac691735c",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-5wf1lt21",
+                "name": "文心一言",
+                "url": "https://yiyan.baidu.com/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-qau4zbo1",
+                "name": "天工超能AI",
+                "url": "https://search.tiangong.cn/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-xaci6o1f",
+                "name": "豆包 - 你的 AI 朋友",
+                "url": "https://www.doubao.com/chat/?guest_landing=1&login_source=chat_list_unlog&type=0",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-hf6vqykp",
+                "name": "Kimi.ai - 帮你看更大的世界",
+                "url": "https://kimi.moonshot.cn/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-h2qw7kh7",
+                "name": "DeepSeek - 探索未至之境",
+                "url": "https://chat.deepseek.com/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-vxo5qk5z",
+                "name": "LongCat AI",
+                "url": "https://longcat.chat/?utm_source=novatools.cn",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-qfdv04xp",
+                "name": "claude",
+                "url": "https://claude.ai/new",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-uf3tcivx",
+                "name": "ChatGPT",
+                "url": "https://chatgpt.com/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-m37i9qwk",
+                "name": "iMini AI",
+                "url": "https://imini.com/explore",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-z0f2r7m0",
+                "name": "Google Gemini",
+                "url": "https://gemini.google.com/app",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-2d648ypc",
+                "name": "Seedance 2.0 提示词库 - 浏览 AI 视频提示词",
+                "url": "https://seedanceprompt.com/zh/prompts?sortBy=likeCount",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-kz3xiwva",
+                "name": "智谱清言",
+                "url": "https://chatglm.cn/main/createClaw?lang=zh",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-i2y2aeii",
+                "name": "通义千问",
+                "url": "https://qianwen.aliyun.com/?chatId=6aac401df4174607b481cdcac691735c",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-6ha58vs5",
+                "name": "文心一言",
+                "url": "https://yiyan.baidu.com/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-amjqr6zx",
+                "name": "天工超能AI",
+                "url": "https://search.tiangong.cn/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-kwxd9n2y",
+                "name": "豆包 - 你的 AI 朋友",
+                "url": "https://www.doubao.com/chat/?guest_landing=1&login_source=chat_list_unlog&type=0",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-p4e0hmsz",
+                "name": "Kimi.ai - 帮你看更大的世界",
+                "url": "https://kimi.moonshot.cn/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-776j27tb",
+                "name": "DeepSeek - 探索未至之境",
+                "url": "https://chat.deepseek.com/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-fbvt70p3",
+                "name": "LongCat AI",
+                "url": "https://longcat.chat/?utm_source=novatools.cn",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-8ey484jo",
+                "name": "claude",
+                "url": "https://claude.ai/new",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-s0689nyj",
+                "name": "ChatGPT",
+                "url": "https://chatgpt.com/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-yhxjqv2a",
+                "name": "Google Gemini",
+                "url": "https://gemini.google.com/app",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-liupq6cx",
+                "name": "iMini AI",
+                "url": "https://imini.com/explore",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-olox6b4t",
+                "name": "即梦AI",
+                "url": "https://jimeng.jianying.com/ai-tool/generate",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-2bzmz0z2",
+                "name": "Seedance 2.0 提示词库 - 浏览 AI 视频提示词",
+                "url": "https://seedanceprompt.com/zh/prompts?sortBy=likeCount",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-7w0zju1s",
+                "name": "全部 Seedance 提示词 | Seedance2Prompt",
+                "url": "https://www.seedance2prompt.com/zh/prompts",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-d9qazd3h",
+                "name": "GitHub",
+                "url": "https://github.com/",
+                "type": "bookmark"
+              }
+            ]
+          },
+          {
+            "id": "1777448882286-oakvesmf",
+            "name": "产品",
+            "type": "folder",
+            "children": [
+              {
+                "id": "1777448882286-q02yp7bh",
+                "name": "蓝湖",
+                "url": "https://lanhuapp.com/web/#/item?cid=&fid=all&tid=c1ee3d25-bdd4-48ba-91ad-64b9539df855",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-i84tl2h9",
+                "name": "Stitch - Design with AI",
+                "url": "https://stitch.withgoogle.com/?pli=1",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-aqii2gym",
+                "name": "Figma",
+                "url": "https://www.figma.com/files/project/31428398/Team-project?fuid=978849163241895295",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-jun2yg0y",
+                "name": "墨刀",
+                "url": "https://www.figma.com/file/3xAjzkD0CHuKcYrfoGgUxw/Untitled?node-id=1%3A2&frame-preset-name=iPhone%2011%20Pro%20%2F%20X",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-6y4onlnl",
+                "name": "draw.io",
+                "url": "https://app.diagrams.net/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-fc5hyer7",
+                "name": "可视化",
+                "type": "folder",
+                "children": [
+                  {
+                    "id": "1777448882286-ej544qy1",
+                    "name": "Online FlowChart & Diagrams Editor - Mermaid Live Editor",
+                    "url": "https://mermaid.live/edit#pako:eNqFVmtPG0kW_SulHkX5ME5ijMHB0Y6EkkjDameJAqOVNo5Qx-4OVkw38mN3siGSDdhgXuZh8woPOzzsDcHGQwLGD_gvTFd196f8hb3V1TZusqu1UNNdt-6tU-eee6vecV7ZJ3Bu7s4d9LMQHBFCqPe1IIXRPaSmd5VqHp-U1donsnNGdibxh8tv9WmlckxWp9Tk9Ld60iOB3_VWHGmxOe3LHqnEycYJnk6oh7VvjS1qIJkTMl8kX2Nk_ZJE8_hgSa0emjZcH8eVinZewpeTZH1BzRVxqqTlY03X5L9xOaOnN9XxC_3jpNooeiQxIP_TO8wHw2jwiUdC8AtFXr0O8qPDqE8KC0GR9wovPBzeX9UnCmThAKf2cHncw71kk-nv174XfxNeITUzp29_RA-Qmq_hmYJ6VEK9o6Mv0b17P439PDj4DCwDA0_hCZMHZO8bITyGep_1QXB4IrWxhOOnHo90Hf2ItOqRUmtoxX2tFDOH9OiuujClbyzi6TNzCMcLuBzVSuekPI76nlgwPf0NsEt8AKKrnz8rlSRZvVBPa2ptF5yBc3w4jh4__-WPaOzp82fw7O-l5HMMLQAcluU3ALW_NxIedhg4WWxB8nmkWzw9loOUIku2SbaCrybU-ipZWL7Nl88fFLxhvyyhvzy_GX0uRwAyxIH0qekyKeTw9pq5UzKZAqlopQSePlIqC1QP5ZppU-qbWmkbhnBqCWz6Zhq00uTxcgXHD6iIvqxRv92qmouSbE7_NGdB9CzASxJbPD-Jp5cti-P9PP3emcXzKbw4p51M4Ophc_EapDoHi2v5Pbr41LxWyqjHq2rmoAlh6hNOzZPoNpi1IkxdVq6K5HjvVrYEbyQsUwAkmddyc1YA5wc4fg7rqulCa5_aWZysnZGFfJseLs7A9YFS-Z1GMOLgeoasLJh2tbZCa25u1XjZAshkZ5HS0lhWKlEYt2C6nRlDGa0QLCMQ-EczASDAsSaP3xFr-DKuGAeGI0lG9a0o2x3kCM9nxlpMfM-NEYPtiuE3YujpDa1UUiozSmUWmsiYCfZ_i7VPEoN8KByMeMMRQ7Y4XlaqR0waWvGSrDZu6_UXYUQOvqXiKJ7gqwQ1m4TuHpOtXTb6rb6JE3F8vK7WV-BJ25rBi1rN08oyizhzZXFYXNKnUqyh4eoK-hFKesL8PF7H44Wm_I0hxj24vQgJoRCUz5DfZ0MgAn3tC5k-tSEtv6wlf7chiqN4Af-N8C8texmU5UCI7pqxflrAiTnov1CrTRHNFEg0xgwgpVm1emVa-kcFCfrAgz8P9P8VDXiHhREembVkwtyeMPpTAvasFnOgTQ9dmFJxOQu472qlGuRIqZ3dhY5zF09nW1tnA6klfbxIzawX3aDufxUSgv_gX_kD_jBNhNHVx8nXWTgArOjjBX3lEjoIGgxC4wZRQuNMKfVsy36qp4tkbopkpwBRGNgY8vKBwJAvEuRpSxoKCV5Z8oUATyAwMhSW3wjSkFcOheE1zAduVxJZO8BXa7SfLh6hURA75ATaphFX4keEm9TjpRnt-NBoLxuwsjFX5P2BIVhXQD-hrjtGq5gpaPlDIOKP6FKLgTYZw-EIxx6up1qnILqOpuEPkdlltbZ9Hd3CFw019pXZr6PbzK-thJVaHPKAU6uAoq10mcjZ7PaqpXMTFDHrjK1Kg74BzIP01JkzEIw1gKVmW6sxzeHipnKRBK2z462tdA1t_pcAsD50cQhwQztrkgb5Y1Z1MH8jFHPeL2tfDqBK8Icd0AFEYS1DzcZovaVKJPYR78_jWlUrFsf-TydmGdI35kHh2tQpLiap4GrrdCs5qKOqVWYr80pjiwFA14llxFKrVKuUCSiQbEWPbuqxFSPTNwluu6WAsrSNTahBkkugPyF6aclsUNCpZTKb1iYaeOaDcWuivt4AHwo9EUQkwOEv0Q6BRH8g4P5B6BZdomiDrgdydv_Q8bDH3vq85-NDcP0J8m_dqAt1PWoLxVi0scTaLCzfLPGoHXn2HKQJdww4TgC5-vkQL5q3OzITJVsl-pLb0_JwXCaViyyZKH0P3gu3CRO3aBd72nA77Tx8Pro139-8pTWdekR7m5PL4RB8Hd87wSnQdBBFl9DdchB53tfhtPDAqsdmloWtJU4K1TLx1z5b8-Jlo5e6FjbLLJNQxq6VVgPXI87GvQ76fZwbjinBxo3AxYqnn9w7GsbDhaH3Ch7ODa8-QeQjgbCH80jvwW2Ul_4uyyNNz6AceT3c_IiM-qDVPPHzcBDCDJEPhOgU6C5C8LEckcKcu_Oh04jBud9xv3Fup8t1v7vL5XTaO52dTpfdZePecu6H3fe7OhwOx8PuHme33dHjeG_j_mUsar9P59p7HN0uZ0d3Z0dn1_v_AOGEA-o",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-0nmsqwet",
+                    "name": "博思AI - boardmix",
+                    "url": "https://boardmix.cn/app/agent",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-h0y7dy8h",
+                    "name": "browserframe.com",
+                    "url": "http://browserframe.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-mwmmd171",
+                    "name": "在线可视化工具网站",
+                    "url": "https://www.shejidaren.com/zaixian-keshihua-tubiao-wangzhang.html",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-ge8piiuq",
+                    "name": "爱图说",
+                    "url": "https://www.itushuo.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-lbj0nou5",
+                    "name": "图之典",
+                    "url": "http://www.tuzhidian.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-c24gk2d8",
+                    "name": "AntV | 蚂蚁数据可视化",
+                    "url": "https://antv.vision/zh",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-jnzsutxm",
+                    "name": "Banber数据可视化云平台",
+                    "url": "https://home.banber.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-7vhndudc",
+                    "name": "ColorDrop - blue",
+                    "url": "https://colordrop.io/search.php?search=blue",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-wvmu04px",
+                    "name": "自由配色",
+                    "url": "https://www.toptal.com/designers/colourcode/freebuild-color-builder",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-10ekqbaw",
+                    "name": "样机",
+                    "url": "https://dimmy.club/desktops/imac-pro",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-0j6xfjq4",
+                    "name": "Online FlowChart & Diagrams Editor - Mermaid Live Editor",
+                    "url": "https://mermaid.live/edit#pako:eNqFVmtPG0kW_SulHkX5ME5ijMHB0Y6EkkjDameJAqOVNo5Qx-4OVkw38mN3siGSDdhgXuZh8woPOzzsDcHGQwLGD_gvTFd196f8hb3V1TZusqu1UNNdt-6tU-eee6vecV7ZJ3Bu7s4d9LMQHBFCqPe1IIXRPaSmd5VqHp-U1donsnNGdibxh8tv9WmlckxWp9Tk9Ld60iOB3_VWHGmxOe3LHqnEycYJnk6oh7VvjS1qIJkTMl8kX2Nk_ZJE8_hgSa0emjZcH8eVinZewpeTZH1BzRVxqqTlY03X5L9xOaOnN9XxC_3jpNooeiQxIP_TO8wHw2jwiUdC8AtFXr0O8qPDqE8KC0GR9wovPBzeX9UnCmThAKf2cHncw71kk-nv174XfxNeITUzp29_RA-Qmq_hmYJ6VEK9o6Mv0b17P439PDj4DCwDA0_hCZMHZO8bITyGep_1QXB4IrWxhOOnHo90Hf2ItOqRUmtoxX2tFDOH9OiuujClbyzi6TNzCMcLuBzVSuekPI76nlgwPf0NsEt8AKKrnz8rlSRZvVBPa2ptF5yBc3w4jh4__-WPaOzp82fw7O-l5HMMLQAcluU3ALW_NxIedhg4WWxB8nmkWzw9loOUIku2SbaCrybU-ipZWL7Nl88fFLxhvyyhvzy_GX0uRwAyxIH0qekyKeTw9pq5UzKZAqlopQSePlIqC1QP5ZppU-qbWmkbhnBqCWz6Zhq00uTxcgXHD6iIvqxRv92qmouSbE7_NGdB9CzASxJbPD-Jp5cti-P9PP3emcXzKbw4p51M4Ophc_EapDoHi2v5Pbr41LxWyqjHq2rmoAlh6hNOzZPoNpi1IkxdVq6K5HjvVrYEbyQsUwAkmddyc1YA5wc4fg7rqulCa5_aWZysnZGFfJseLs7A9YFS-Z1GMOLgeoasLJh2tbZCa25u1XjZAshkZ5HS0lhWKlEYt2C6nRlDGa0QLCMQ-EczASDAsSaP3xFr-DKuGAeGI0lG9a0o2x3kCM9nxlpMfM-NEYPtiuE3YujpDa1UUiozSmUWmsiYCfZ_i7VPEoN8KByMeMMRQ7Y4XlaqR0waWvGSrDZu6_UXYUQOvqXiKJ7gqwQ1m4TuHpOtXTb6rb6JE3F8vK7WV-BJ25rBi1rN08oyizhzZXFYXNKnUqyh4eoK-hFKesL8PF7H44Wm_I0hxj24vQgJoRCUz5DfZ0MgAn3tC5k-tSEtv6wlf7chiqN4Af-N8C8texmU5UCI7pqxflrAiTnov1CrTRHNFEg0xgwgpVm1emVa-kcFCfrAgz8P9P8VDXiHhREembVkwtyeMPpTAvasFnOgTQ9dmFJxOQu472qlGuRIqZ3dhY5zF09nW1tnA6klfbxIzawX3aDufxUSgv_gX_kD_jBNhNHVx8nXWTgArOjjBX3lEjoIGgxC4wZRQuNMKfVsy36qp4tkbopkpwBRGNgY8vKBwJAvEuRpSxoKCV5Z8oUATyAwMhSW3wjSkFcOheE1zAduVxJZO8BXa7SfLh6hURA75ATaphFX4keEm9TjpRnt-NBoLxuwsjFX5P2BIVhXQD-hrjtGq5gpaPlDIOKP6FKLgTYZw-EIxx6up1qnILqOpuEPkdlltbZ9Hd3CFw019pXZr6PbzK-thJVaHPKAU6uAoq10mcjZ7PaqpXMTFDHrjK1Kg74BzIP01JkzEIw1gKVmW6sxzeHipnKRBK2z462tdA1t_pcAsD50cQhwQztrkgb5Y1Z1MH8jFHPeL2tfDqBK8Icd0AFEYS1DzcZovaVKJPYR78_jWlUrFsf-TydmGdI35kHh2tQpLiap4GrrdCs5qKOqVWYr80pjiwFA14llxFKrVKuUCSiQbEWPbuqxFSPTNwluu6WAsrSNTahBkkugPyF6aclsUNCpZTKb1iYaeOaDcWuivt4AHwo9EUQkwOEv0Q6BRH8g4P5B6BZdomiDrgdydv_Q8bDH3vq85-NDcP0J8m_dqAt1PWoLxVi0scTaLCzfLPGoHXn2HKQJdww4TgC5-vkQL5q3OzITJVsl-pLb0_JwXCaViyyZKH0P3gu3CRO3aBd72nA77Tx8Pro139-8pTWdekR7m5PL4RB8Hd87wSnQdBBFl9DdchB53tfhtPDAqsdmloWtJU4K1TLx1z5b8-Jlo5e6FjbLLJNQxq6VVgPXI87GvQ76fZwbjinBxo3AxYqnn9w7GsbDhaH3Ch7ODa8-QeQjgbCH80jvwW2Ul_4uyyNNz6AceT3c_IiM-qDVPPHzcBDCDJEPhOgU6C5C8LEckcKcu_Oh04jBud9xv3Fup8t1v7vL5XTaO52dTpfdZePecu6H3fe7OhwOx8PuHme33dHjeG_j_mUsar9P59p7HN0uZ0d3Z0dn1_v_AOGEA-o",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-fs74ypob",
+                    "name": "博思AI - boardmix",
+                    "url": "https://boardmix.cn/app/agent",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-5tvxjqx3",
+                    "name": "browserframe.com",
+                    "url": "http://browserframe.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-9y3hcmjt",
+                    "name": "在线可视化工具网站",
+                    "url": "https://www.shejidaren.com/zaixian-keshihua-tubiao-wangzhang.html",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-vy5w67dm",
+                    "name": "爱图说",
+                    "url": "https://www.itushuo.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-ob66nd2d",
+                    "name": "图之典",
+                    "url": "http://www.tuzhidian.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-b7hwollp",
+                    "name": "AntV | 蚂蚁数据可视化",
+                    "url": "https://antv.vision/zh",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-db77l7t6",
+                    "name": "Banber数据可视化云平台",
+                    "url": "https://home.banber.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-9oy9vtst",
+                    "name": "ColorDrop - blue",
+                    "url": "https://colordrop.io/search.php?search=blue",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-ye7mio7n",
+                    "name": "自由配色",
+                    "url": "https://www.toptal.com/designers/colourcode/freebuild-color-builder",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-7foszfy9",
+                    "name": "样机",
+                    "url": "https://dimmy.club/desktops/imac-pro",
+                    "type": "bookmark"
+                  }
+                ]
+              },
+              {
+                "id": "1777448882286-krxadbp6",
+                "name": "图像素材",
+                "type": "folder",
+                "children": [
+                  {
+                    "id": "1777448882286-ekmig32n",
+                    "name": "Iconfont-阿里巴巴矢量图标库",
+                    "url": "http://www.iconfont.cn/home/index?spm=a313x.7781069.1998910419.2",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-ilmk4h2p",
+                    "name": "符号大全-特殊符号-特殊符号大全",
+                    "url": "http://www.fhdq.net/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-e7q65ceu",
+                    "name": "2,000+ 最精彩的 B辨认 图片 · 100% 免费下载 · Pexels 素材图片",
+                    "url": "https://www.pexels.com/zh-cn/search/b%E8%BE%A8%E8%AE%A4/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-yfn1gh5t",
+                    "name": "The Stocks 2 - Best royalty free stock photos, videos, mockups, icons and fonts!",
+                    "url": "http://thestocks.im/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-vbramyrs",
+                    "name": "Free Vectors, Stock Photos & PSD Downloads | Freepik",
+                    "url": "https://www.freepik.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-jknx5fib",
+                    "name": "Pixelmob - Royalty Free Photos Search Engine. Find Free Images",
+                    "url": "https://pixelmob.co/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-oiveput5",
+                    "name": "Free Vector Icons and Stickers - PNG, SVG, EPS, PSD and CSS",
+                    "url": "https://www.flaticon.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-14x2do89",
+                    "name": "PPT元素_懒人图库",
+                    "url": "https://www.lanrentuku.com/pngsucai/cate_pptyuansu.html",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-5pgtkq1f",
+                    "name": "免费图库网站-199IT数据导航网站--Hao.199it.com",
+                    "url": "http://hao.199it.com/images.html",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-0fp4wh44",
+                    "name": "Iconfont-阿里巴巴矢量图标库",
+                    "url": "http://www.iconfont.cn/home/index?spm=a313x.7781069.1998910419.2",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-oa4cq6jm",
+                    "name": "符号大全-特殊符号-特殊符号大全",
+                    "url": "http://www.fhdq.net/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-km3bbxsn",
+                    "name": "2,000+ 最精彩的 B辨认 图片 · 100% 免费下载 · Pexels 素材图片",
+                    "url": "https://www.pexels.com/zh-cn/search/b%E8%BE%A8%E8%AE%A4/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-7ujrajfp",
+                    "name": "The Stocks 2 - Best royalty free stock photos, videos, mockups, icons and fonts!",
+                    "url": "http://thestocks.im/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-j4q2y92l",
+                    "name": "Free Vectors, Stock Photos & PSD Downloads | Freepik",
+                    "url": "https://www.freepik.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-dsonza56",
+                    "name": "Pixelmob - Royalty Free Photos Search Engine. Find Free Images",
+                    "url": "https://pixelmob.co/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-dk94dw6p",
+                    "name": "Free Vector Icons and Stickers - PNG, SVG, EPS, PSD and CSS",
+                    "url": "https://www.flaticon.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-23cibnua",
+                    "name": "PPT元素_懒人图库",
+                    "url": "https://www.lanrentuku.com/pngsucai/cate_pptyuansu.html",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-kbhh2549",
+                    "name": "免费图库网站-199IT数据导航网站--Hao.199it.com",
+                    "url": "http://hao.199it.com/images.html",
+                    "type": "bookmark"
+                  }
+                ]
+              },
+              {
+                "id": "1777448882286-hgwxz38u",
+                "name": "B端竞品调研网站",
+                "type": "folder",
+                "children": [
+                  {
+                    "id": "1777448882286-fend4f65",
+                    "name": "B2B Directory - Trusted SaaS Software Reviews | FinancesOnline.com",
+                    "url": "https://financesonline.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-dbmz8if8",
+                    "name": "商业软件和服务评论 | G2",
+                    "url": "https://www.g2.com/?__cf_chl_jschl_tk__=pmd_rXY3IB4ZNxFDnN59Xnat3s3qFyREKT5f3gj2C.WwK7I-1635823300-0-gqNtZGzNAlCjcnBszQfR",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-y1p9y2na",
+                    "name": "Business Software Reviews, Comparisons and SaaS Companies Directory | SaasGenius",
+                    "url": "https://www.saasgenius.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-fpb7bf19",
+                    "name": "浏览软件建议中的流行软件类别",
+                    "url": "https://www.softwareadvice.com/categories/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-tvp8bbaq",
+                    "name": "Business Software Reviews from Software Advice®",
+                    "url": "https://www.softwareadvice.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-9blhbs9z",
+                    "name": "Fit Small Business: Get Your Business Into Shape!",
+                    "url": "https://fitsmallbusiness.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-nwyichzh",
+                    "name": "36氪企服点评_企业服务点评平台,快速选择最合适自己的产品与服务",
+                    "url": "https://www.36dianping.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-7u0at272",
+                    "name": "SaaS软件_企业选软件就上SaaS软件点评网",
+                    "url": "https://saasruanjian.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-rh0grhur",
+                    "name": "字母点评-企业数字化产品点评",
+                    "url": "https://zimudianping.com/#/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-egqmtqw6",
+                    "name": "选型宝-CIO选型助手-泛微|帆软|用友|SAP用户实名点评.",
+                    "url": "https://xuanxingbao.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-kw35rd5t",
+                    "name": "B2B Directory - Trusted SaaS Software Reviews | FinancesOnline.com",
+                    "url": "https://financesonline.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-b286d11b",
+                    "name": "商业软件和服务评论 | G2",
+                    "url": "https://www.g2.com/?__cf_chl_jschl_tk__=pmd_rXY3IB4ZNxFDnN59Xnat3s3qFyREKT5f3gj2C.WwK7I-1635823300-0-gqNtZGzNAlCjcnBszQfR",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-35kes1nb",
+                    "name": "Business Software Reviews, Comparisons and SaaS Companies Directory | SaasGenius",
+                    "url": "https://www.saasgenius.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-q9qlx70t",
+                    "name": "浏览软件建议中的流行软件类别",
+                    "url": "https://www.softwareadvice.com/categories/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-vn0rt1r7",
+                    "name": "Business Software Reviews from Software Advice®",
+                    "url": "https://www.softwareadvice.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-2zlowf0v",
+                    "name": "Fit Small Business: Get Your Business Into Shape!",
+                    "url": "https://fitsmallbusiness.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-azl9h4q1",
+                    "name": "36氪企服点评_企业服务点评平台,快速选择最合适自己的产品与服务",
+                    "url": "https://www.36dianping.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-sbj7e5ix",
+                    "name": "SaaS软件_企业选软件就上SaaS软件点评网",
+                    "url": "https://saasruanjian.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-sqc4kx08",
+                    "name": "字母点评-企业数字化产品点评",
+                    "url": "https://zimudianping.com/#/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-6fb25jcr",
+                    "name": "选型宝-CIO选型助手-泛微|帆软|用友|SAP用户实名点评.",
+                    "url": "https://xuanxingbao.com/",
+                    "type": "bookmark"
+                  }
+                ]
+              },
+              {
+                "id": "1777448882286-l8x1yovz",
+                "name": "超详细的APP数据指标体系分析 | 推荐收藏_数据运营_鸟哥笔记",
+                "url": "https://www.niaogebiji.com/article-19140-1.html?from_pos=title&from=groupmessage",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-9i99d35k",
+                "name": "中国最好的产品经理100人 - CSDN博客",
+                "url": "https://blog.csdn.net/macro_xiao/article/details/42709649",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-kcfq5ecw",
+                "name": "移动端设计规范指南一览|比格张-发现更好的资源",
+                "url": "https://bigezhang.com/column/5b31a0f306bddc458aef8864",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-6y9z9q5q",
+                "name": "7个帮你提高设计审美的网站|比格张-发现更好的资源",
+                "url": "https://bigezhang.com/column/5b1413f5e58e1579180cc572",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-rqbr4nos",
+                "name": "Coolors - The super fast color schemes generator!",
+                "url": "https://coolors.co/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-7nkgdn8g",
+                "name": "Ant Design Pro",
+                "url": "https://preview.pro.ant.design/list/table-list",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-411kyz1p",
+                "name": "getdesign.md — DESIGN.md collection for AI coding agents",
+                "url": "https://getdesign.md/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-dqpty7wg",
+                "name": "蓝湖",
+                "url": "https://lanhuapp.com/web/#/item?cid=&fid=all&tid=c1ee3d25-bdd4-48ba-91ad-64b9539df855",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-g0mahfpr",
+                "name": "Stitch - Design with AI",
+                "url": "https://stitch.withgoogle.com/?pli=1",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-fudbnfiw",
+                "name": "Figma",
+                "url": "https://www.figma.com/files/project/31428398/Team-project?fuid=978849163241895295",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-53hsnwba",
+                "name": "墨刀",
+                "url": "https://www.figma.com/file/3xAjzkD0CHuKcYrfoGgUxw/Untitled?node-id=1%3A2&frame-preset-name=iPhone%2011%20Pro%20%2F%20X",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-m62rtz8k",
+                "name": "draw.io",
+                "url": "https://app.diagrams.net/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-m5ac30ek",
+                "name": "设计规范",
+                "type": "folder",
+                "children": [
+                  {
+                    "id": "1777457284941-ev6dvohs",
+                    "name": "移动端设计规范指南一览|比格张-发现更好的资源",
+                    "url": "https://bigezhang.com/column/5b31a0f306bddc458aef8864",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-bfyww5ls",
+                    "name": "7个帮你提高设计审美的网站|比格张-发现更好的资源",
+                    "url": "https://bigezhang.com/column/5b1413f5e58e1579180cc572",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-tv5ikvs5",
+                    "name": "Coolors - The super fast color schemes generator!",
+                    "url": "https://coolors.co/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-on1ogurm",
+                    "name": "Ant Design Pro",
+                    "url": "https://preview.pro.ant.design/list/table-list",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-zhu10sbn",
+                    "name": "getdesign.md — DESIGN.md collection for AI coding agents",
+                    "url": "https://getdesign.md/",
+                    "type": "bookmark"
+                  }
+                ]
+              },
+              {
+                "id": "1777457284941-6w4eee0p",
+                "name": "文章收藏",
+                "type": "folder",
+                "children": [
+                  {
+                    "id": "1777457284941-urh850rk",
+                    "name": "超详细的APP数据指标体系分析 | 推荐收藏_数据运营_鸟哥笔记",
+                    "url": "https://www.niaogebiji.com/article-19140-1.html?from_pos=title&from=groupmessage",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-9n9apvo4",
+                    "name": "中国最好的产品经理100人 - CSDN博客",
+                    "url": "https://blog.csdn.net/macro_xiao/article/details/42709649",
+                    "type": "bookmark"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1777448882286-3ezhuu8s",
+            "name": "STUDY",
+            "type": "folder",
+            "children": [
+              {
+                "id": "1777448882286-nevyfxx6",
+                "name": "石墨文档",
+                "url": "https://shimo.im/desktop",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-ki5az9w1",
+                "name": "幕布",
+                "url": "https://mubu.com/app",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-oi30f52l",
+                "name": "语雀",
+                "url": "https://www.yuque.com/dashboard/collections",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-cbho0lrr",
+                "name": "飞书",
+                "url": "https://jkl98o00yh.feishu.cn/drive/home/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-3ea1z7s5",
+                "name": "吉他",
+                "type": "folder",
+                "children": [
+                  {
+                    "id": "1777448882286-x2xyex55",
+                    "name": "吉他谱",
+                    "type": "folder",
+                    "children": [
+                      {
+                        "id": "1777448882286-qnk4ea0w",
+                        "name": "一直很安静吉他谱|阿桑|免费浏览|GTP格式在线播放 - 精品吉他谱 - WWW.JPTAB.COM",
+                        "url": "https://www.jptab.com/tab/detail/1506#tabwiew",
+                        "type": "bookmark"
+                      },
+                      {
+                        "id": "1777457284941-tsqbn91y",
+                        "name": "一直很安静吉他谱|阿桑|免费浏览|GTP格式在线播放 - 精品吉他谱 - WWW.JPTAB.COM",
+                        "url": "https://www.jptab.com/tab/detail/1506#tabwiew",
+                        "type": "bookmark"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1777448882286-4s2u6zyt",
+                    "name": "视唱练耳【启蒙】教程全套45集附示范，超级干货！_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+                    "url": "https://www.bilibili.com/video/BV1BE411e7w8?p=5&spm_id_from=pageDriver",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-vg0h72sj",
+                    "name": "【新提醒】吉他社 - 吉他爱好者社区,提供吉他谱下载吉他教学视频吉他入门",
+                    "url": "https://www.jitashe.org/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-poglpssl",
+                    "name": "GTP吉他谱在线播放器 - 精品吉他谱 - WWW.JPTAB.COM",
+                    "url": "https://www.jptab.com/Tab/Play?TabID=4343",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-f5w5vdgf",
+                    "name": "视唱练耳【启蒙】教程全套45集附示范，超级干货！_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+                    "url": "https://www.bilibili.com/video/BV1BE411e7w8?p=5&spm_id_from=pageDriver",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-2kih4hig",
+                    "name": "【新提醒】吉他社 - 吉他爱好者社区,提供吉他谱下载吉他教学视频吉他入门",
+                    "url": "https://www.jitashe.org/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-en4ogwms",
+                    "name": "GTP吉他谱在线播放器 - 精品吉他谱 - WWW.JPTAB.COM",
+                    "url": "https://www.jptab.com/Tab/Play?TabID=4343",
+                    "type": "bookmark"
+                  }
+                ]
+              },
+              {
+                "id": "1777448882286-ea0nv74t",
+                "name": "人工智能",
+                "type": "folder",
+                "children": [
+                  {
+                    "id": "1777448882286-ur6jmk0h",
+                    "name": "提示工程指南 | Prompt Engineering Guide",
+                    "url": "https://www.promptingguide.ai/zh",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-vj5d5z3r",
+                    "name": "Shubhamsaboo/awesome-llm-apps | Readme-i18n",
+                    "url": "https://www.readme-i18n.com/zh/Shubhamsaboo/awesome-llm-apps",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-2wqzy90v",
+                    "name": "提示工程指南 | Prompt Engineering Guide",
+                    "url": "https://www.promptingguide.ai/zh",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-aztsnlkw",
+                    "name": "Shubhamsaboo/awesome-llm-apps | Readme-i18n",
+                    "url": "https://www.readme-i18n.com/zh/Shubhamsaboo/awesome-llm-apps",
+                    "type": "bookmark"
+                  }
+                ]
+              },
+              {
+                "id": "1777448882286-2z51lifx",
+                "name": "百怪网",
+                "type": "folder",
+                "children": [
+                  {
+                    "id": "1777448882286-4enmaic0",
+                    "name": "AI工具集导航 | 500+ AI工具导航大全，国内外AI工具集合网站",
+                    "url": "https://ai-bot.cn/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-pdfeqp9i",
+                    "name": "网站-B端后台界面-公开的收藏夹-站酷 (ZCOOL)",
+                    "url": "https://www.zcool.com.cn/collection/ZMzU5MDIyNzI=",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-ezfb3vje",
+                    "name": "产品经理导航 | 运营导航-互联网人必备网址导航",
+                    "url": "https://www.pmbaobao.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-ubh50n2k",
+                    "name": "夜雨聆风工具箱",
+                    "url": "https://www.yeyulingfeng.com/tool/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-afr6xgub",
+                    "name": "收藏国内外最有趣的网站 – Funletu",
+                    "url": "https://funletu.com/circle/interesting-web-sites",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-d03ft7ld",
+                    "name": "未来百科 | 为发现全球优质AI工具产品而生",
+                    "url": "https://nav.6aiq.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-2wmhysza",
+                    "name": "AI工具集导航 | 500+ AI工具导航大全，国内外AI工具集合网站",
+                    "url": "https://ai-bot.cn/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-4m0ozxzj",
+                    "name": "网站-B端后台界面-公开的收藏夹-站酷 (ZCOOL)",
+                    "url": "https://www.zcool.com.cn/collection/ZMzU5MDIyNzI=",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-0hsf7kyx",
+                    "name": "产品经理导航 | 运营导航-互联网人必备网址导航",
+                    "url": "https://www.pmbaobao.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-4jcs4mwf",
+                    "name": "夜雨聆风工具箱",
+                    "url": "https://www.yeyulingfeng.com/tool/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-n4gsxoim",
+                    "name": "收藏国内外最有趣的网站 – Funletu",
+                    "url": "https://funletu.com/circle/interesting-web-sites",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-d32ejnzu",
+                    "name": "未来百科 | 为发现全球优质AI工具产品而生",
+                    "url": "https://nav.6aiq.com/",
+                    "type": "bookmark"
+                  }
+                ]
+              },
+              {
+                "id": "1777457284941-j85r6fjn",
+                "name": "石墨文档",
+                "url": "https://shimo.im/desktop",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-gf01vf93",
+                "name": "幕布",
+                "url": "https://mubu.com/app",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-dptjk4zx",
+                "name": "语雀",
+                "url": "https://www.yuque.com/dashboard/collections",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-zh78raxi",
+                "name": "飞书",
+                "url": "https://jkl98o00yh.feishu.cn/drive/home/",
+                "type": "bookmark"
+              }
+            ]
+          },
+          {
+            "id": "1777448882286-ift6z15q",
+            "name": "数据和报告",
+            "type": "folder",
+            "children": [
+              {
+                "id": "1777448882286-u9f7p9uw",
+                "name": "快搜 - 搜索快人一步 - Google",
+                "url": "https://search.chongbuluo.com/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-ruc5mua4",
+                "name": "报告库 · 烯牛数据",
+                "url": "http://www.xiniudata.com/report",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-6nfv8w3o",
+                "name": "行行查 | 行业研究数据库",
+                "url": "https://www.hanghangcha.com/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-o0cui5v6",
+                "name": "【发现报告】海量行业分析研究报告/券商研报_专业看研报平台",
+                "url": "https://www.fxbaogao.com/dt",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-lawovsk6",
+                "name": "免费行业报告_免费研究报告-前沿报告库",
+                "url": "http://wk.askci.com/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-aa2flrbw",
+                "name": "免费研究报告_行业分析报告_免费市场调研报告 - 前瞻产业研究院",
+                "url": "https://bg.qianzhan.com/report/free",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-9n96jycb",
+                "name": "研究报告_行业研究报告-OFweek行业研究中心",
+                "url": "https://research.ofweek.com/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-ks1d7jd0",
+                "name": "产业研究_行业报告_可行性报告_中国产业信息网",
+                "url": "http://www.chyxx.com/research/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-tnfu0ck1",
+                "name": "研究报告 | 互联网数据资讯网-199IT | 中文互联网数据研究资讯中心-199IT",
+                "url": "http://www.199it.com/archives/category/report",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-v19qz0ea",
+                "name": "报告_艾瑞网",
+                "url": "https://report.iresearch.cn/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-uhv7kipz",
+                "name": "宏观数据_行业数据_报告网www.baogao.com",
+                "url": "http://t.baogao.com/shuju/hongguan/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-l2x4rocz",
+                "name": "沪深A股公告一览表 _ 数据中心 _ 东方财富网",
+                "url": "http://data.eastmoney.com/notices/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-r3631ihg",
+                "name": "中国互联网络信息中心",
+                "url": "http://www.cnnic.net.cn/hlwfzyj/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-qiszngs4",
+                "name": "大数据导航-大数据工具导航-199IT大数据导航-199IT大数据工具导航-Hao.199it.com",
+                "url": "http://hao.199it.com/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-vnam62az",
+                "name": "中商情报网-产业情报_产业图谱_产业知识库",
+                "url": "http://www.askci.com/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-xmxoav7t",
+                "name": "比达网-专注移动互联网行业的市场研究和数据交流平台",
+                "url": "http://www.bigdata-research.cn/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-uk0vamdt",
+                "name": "B2B新闻 - 亿邦动力网",
+                "url": "http://www.ebrun.com/b2b/?eb=hp_home_nav_xzdh",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-qvawrp9s",
+                "name": "中国电子技术标准化研究院",
+                "url": "http://www.cesi.cn/page/second3.jsp?catalog=/005/005-003",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-s5m4gg2y",
+                "name": "人工智能行业报告,AI报告-",
+                "url": "http://ipoipo.cn/tags-85.html",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-ih8ybfv2",
+                "name": "免费报告-中国市场调查网",
+                "url": "http://www.cnscdc.com/mianfeibaogao/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-6ohhu8mi",
+                "name": "首页-阿里研究院",
+                "url": "http://www.aliresearch.com/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-b5jpkpc7",
+                "name": "机器之心 Pro",
+                "url": "https://pro.jiqizhixin.com/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-drp6fck9",
+                "name": "艾瑞数据 - 数据改变认知 提升企业效能",
+                "url": "http://data.iresearch.com.cn/Home.shtml",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-1maxm7w3",
+                "name": "ASO/ASM优化方案_APP推广/应用大数据分析平台_iOS/安卓市场|榜单优化|效果广告服务公司-闯奇数据",
+                "url": "https://www.cqaso.com/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-8o9aqmwb",
+                "name": "语音小程序_语音小程序有哪些_阿拉丁指数",
+                "url": "http://www.aldzs.com/searchList?name=%E8%AF%AD%E9%9F%B3",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-7vysh5ze",
+                "name": "易观 - 数据驱动精益成长",
+                "url": "https://www.analysys.cn/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-qgtqc072",
+                "name": "中国经济形势报告网",
+                "url": "http://www.china-cer.com.cn/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-xq3uil0m",
+                "name": "七麦数据（原ASO100）-专业移动产品商业分析平台-ASO-ASA优化",
+                "url": "https://www.qimai.cn/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-lukthdro",
+                "name": "IT桔子 | 泛互联网创业投资项目信息数据库及商业信息服务商",
+                "url": "https://www.itjuzi.com/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-c4l9m7v7",
+                "name": "清科研究_清科研究中心是股权投资行业专业的研究机构",
+                "url": "https://research.pedaily.cn/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-hxk80emh",
+                "name": "快搜 - 搜索快人一步 - Google",
+                "url": "https://search.chongbuluo.com/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-pkp5iogf",
+                "name": "报告库 · 烯牛数据",
+                "url": "http://www.xiniudata.com/report",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-hdhkyetq",
+                "name": "行行查 | 行业研究数据库",
+                "url": "https://www.hanghangcha.com/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-95iyzmic",
+                "name": "【发现报告】海量行业分析研究报告/券商研报_专业看研报平台",
+                "url": "https://www.fxbaogao.com/dt",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-kjr628ha",
+                "name": "免费行业报告_免费研究报告-前沿报告库",
+                "url": "http://wk.askci.com/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-wg39oxgj",
+                "name": "免费研究报告_行业分析报告_免费市场调研报告 - 前瞻产业研究院",
+                "url": "https://bg.qianzhan.com/report/free",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-7fha9akq",
+                "name": "研究报告_行业研究报告-OFweek行业研究中心",
+                "url": "https://research.ofweek.com/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-wor0t1y7",
+                "name": "产业研究_行业报告_可行性报告_中国产业信息网",
+                "url": "http://www.chyxx.com/research/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-waag7ova",
+                "name": "研究报告 | 互联网数据资讯网-199IT | 中文互联网数据研究资讯中心-199IT",
+                "url": "http://www.199it.com/archives/category/report",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-r67vtx35",
+                "name": "报告_艾瑞网",
+                "url": "https://report.iresearch.cn/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-6dwu3vui",
+                "name": "宏观数据_行业数据_报告网www.baogao.com",
+                "url": "http://t.baogao.com/shuju/hongguan/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-oc14kjv7",
+                "name": "沪深A股公告一览表 _ 数据中心 _ 东方财富网",
+                "url": "http://data.eastmoney.com/notices/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-9n30hetg",
+                "name": "中国互联网络信息中心",
+                "url": "http://www.cnnic.net.cn/hlwfzyj/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-4xtqf0lb",
+                "name": "大数据导航-大数据工具导航-199IT大数据导航-199IT大数据工具导航-Hao.199it.com",
+                "url": "http://hao.199it.com/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-47faox4c",
+                "name": "中商情报网-产业情报_产业图谱_产业知识库",
+                "url": "http://www.askci.com/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-13uzpi4x",
+                "name": "比达网-专注移动互联网行业的市场研究和数据交流平台",
+                "url": "http://www.bigdata-research.cn/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-3hq1t8bf",
+                "name": "B2B新闻 - 亿邦动力网",
+                "url": "http://www.ebrun.com/b2b/?eb=hp_home_nav_xzdh",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-cmto7m0z",
+                "name": "中国电子技术标准化研究院",
+                "url": "http://www.cesi.cn/page/second3.jsp?catalog=/005/005-003",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-htba2wsb",
+                "name": "人工智能行业报告,AI报告-",
+                "url": "http://ipoipo.cn/tags-85.html",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-pqx9svrt",
+                "name": "免费报告-中国市场调查网",
+                "url": "http://www.cnscdc.com/mianfeibaogao/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-j9bux5ng",
+                "name": "首页-阿里研究院",
+                "url": "http://www.aliresearch.com/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-eviko7mu",
+                "name": "机器之心 Pro",
+                "url": "https://pro.jiqizhixin.com/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-va8ngfgg",
+                "name": "艾瑞数据 - 数据改变认知 提升企业效能",
+                "url": "http://data.iresearch.com.cn/Home.shtml",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-hx5uub2p",
+                "name": "ASO/ASM优化方案_APP推广/应用大数据分析平台_iOS/安卓市场|榜单优化|效果广告服务公司-闯奇数据",
+                "url": "https://www.cqaso.com/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-zdolpfbu",
+                "name": "语音小程序_语音小程序有哪些_阿拉丁指数",
+                "url": "http://www.aldzs.com/searchList?name=%E8%AF%AD%E9%9F%B3",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-qxvzgrgi",
+                "name": "易观 - 数据驱动精益成长",
+                "url": "https://www.analysys.cn/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-b1mux9b4",
+                "name": "中国经济形势报告网",
+                "url": "http://www.china-cer.com.cn/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-9u8k4mad",
+                "name": "七麦数据（原ASO100）-专业移动产品商业分析平台-ASO-ASA优化",
+                "url": "https://www.qimai.cn/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-zyyg20r8",
+                "name": "IT桔子 | 泛互联网创业投资项目信息数据库及商业信息服务商",
+                "url": "https://www.itjuzi.com/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-qfzwcyhn",
+                "name": "清科研究_清科研究中心是股权投资行业专业的研究机构",
+                "url": "https://research.pedaily.cn/",
+                "type": "bookmark"
+              }
+            ]
+          },
+          {
+            "id": "1777448882286-hbedl9l9",
+            "name": "工作",
+            "type": "folder",
+            "children": [
+              {
+                "id": "1777448882286-i51i8pm1",
+                "name": "中澳科技",
+                "type": "folder",
+                "children": [
+                  {
+                    "id": "1777448882286-du6d0qzb",
+                    "name": "项目 - 中奥研发质控部任务跟踪平台",
+                    "url": "http://172.16.100.197:10083/projects",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-1lrkt3xx",
+                    "name": "SVN版本控制",
+                    "url": "https://192.168.1.74/svn/YFZB/CP-Document/QZXYTH-Document/D1.Report/1-1%E7%AB%8B%E9%A1%B9&%E6%9D%83%E9%99%90&%E5%8F%98%E6%9B%B4/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-7xgs6p43",
+                    "name": "情指一体化",
+                    "url": "http://192.168.51.110:9201/qzx-grgzt/home",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-y44mmh6o",
+                    "name": "情指行一体化(开发)",
+                    "url": "http://172.16.100.145:9201/login",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-juj4hlj7",
+                    "name": "AI演示系统",
+                    "url": "http://192.168.52.220:8000/#/home",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-ylt9wsx9",
+                    "name": "OA系统",
+                    "url": "http://oa.chinaoly.com/seeyon/main.do?method=main",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-ceyd4028",
+                    "name": "队伍监管",
+                    "url": "http://172.16.100.119/#/home",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-tvblpq23",
+                    "name": "智能推演",
+                    "url": "http://192.168.52.220:9400/#/modelShop",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-fn5vywp3",
+                    "name": "推演室(开发)",
+                    "url": "http://192.168.0.71:7914/#/home",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-cqfyki8q",
+                    "name": "易网办民警端（生产）",
+                    "url": "https://ewangban.police.hangzhou.gov.cn/#/login",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-gje7g4od",
+                    "name": "易网办民警端（公司）",
+                    "url": "https://192.168.0.71:20001/#/login",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-xmth4mry",
+                    "name": "易网办管理端（公司）",
+                    "url": "https://192.168.0.71:20002/#/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-5seuxi6k",
+                    "name": "易网办系统管理(生产)",
+                    "url": "https://ewangban.police.hangzhou.gov.cn/xtgl/#/login",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-xwhqz43w",
+                    "name": "易网办系统管理（公司）",
+                    "url": "http://172.16.100.141:6019/#/login",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-89igyv98",
+                    "name": "易网办互联网版",
+                    "url": "https://192.168.0.71:20010/#/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-tx8h4js4",
+                    "name": "ChinaOly UI of Vue",
+                    "url": "http://192.168.0.71:7778/docs/vue/introduce-cn/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-wrth8cdl",
+                    "name": "ChinaOly Business of Vue",
+                    "url": "http://192.168.0.71:7779/docs/vue/introduce-cn/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-paqdrn2v",
+                    "name": "公司邮箱",
+                    "url": "http://mail.chinaoly.com/webmail/index2.html#mail",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-h8m7t7wc",
+                    "name": "浙江省政法公共服务平台",
+                    "url": "http://zffw.zjzwfw.gov.cn/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-4s8g2xz5",
+                    "name": "中国招标投标公共服务平台",
+                    "url": "https://bulletin.cebpubservice.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-7ey243wm",
+                    "name": "采购公告搜索_中国政府采购网",
+                    "url": "http://search.ccgp.gov.cn/bxsearch?searchtype=2&page_index=5&bidSort=0&buyerName=&projectId=&pinMu=0&bidType=0&dbselect=bidx&kw=%E8%BF%9C%E7%A8%8B&start_time=2020%3A12%3A10&end_time=2021%3A12%3A10&timeType=6&displayZone=&zoneId=&pppStatus=0&agentName=",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-4kow8473",
+                    "name": "jira",
+                    "url": "http://192.168.51.21:8080/login.jsp",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-rczdk4z6",
+                    "name": "中国法律服务网",
+                    "url": "http://www.12348.gov.cn/#/publicies/legalAid/legalAid",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-3ikqxdr6",
+                    "name": "易网办互联网外网",
+                    "url": "https://mail.chinaoly.com:20010/#/login",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-ujs7op1w",
+                    "name": "国家政务服务平台",
+                    "url": "http://gjzwfw.www.gov.cn/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-fru6xs9m",
+                    "name": "上云工具",
+                    "url": "http://172.16.100.141:7100/#/login",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-z1zuyw8y",
+                    "name": "数据中台",
+                    "url": "http://192.168.51.44:85/#/login",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-3zerja6h",
+                    "name": "大数据处理平台",
+                    "url": "http://192.168.52.87:6108/#/login",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-5ih249d1",
+                    "name": "数据中台",
+                    "url": "http://172.16.100.141:1999/home/#/login",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-zn19t5hp",
+                    "name": "乾坤大数据操作系统 - 产品及服务 - 美亚柏科",
+                    "url": "https://www.300188.cn/products/detail/103.html",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-jdkg4bt2",
+                    "name": "消息场景",
+                    "url": "https://bops-jcss.police.hangzhou.gov.cn/#/mobile-opts-message/bizList",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-d7ukdkby",
+                    "name": "应用开放平台",
+                    "url": "https://op-jcss.police.hangzhou.gov.cn/mobile/app/management/deploy/200500210/%E6%98%93%E7%BD%91%E5%8A%9E?codeStrategy=PLATFORM",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-fkb0xogb",
+                    "name": "国务院政策文件库-文件搜索_中国政府网",
+                    "url": "http://sousuo.gov.cn/s.htm?t=zhengcelibrary&q=%E6%94%BF%E5%8A%A1%E6%9C%8D%E5%8A%A1",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-ycv86wso",
+                    "name": "易网办2.0",
+                    "url": "https://mail.chinaoly.com:20011/#/room",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-gkqm6f7h",
+                    "name": "项目 - 中奥研发质控部任务跟踪平台",
+                    "url": "http://172.16.100.197:10083/projects",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-bqz051mq",
+                    "name": "SVN版本控制",
+                    "url": "https://192.168.1.74/svn/YFZB/CP-Document/QZXYTH-Document/D1.Report/1-1%E7%AB%8B%E9%A1%B9&%E6%9D%83%E9%99%90&%E5%8F%98%E6%9B%B4/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-61ogmno8",
+                    "name": "情指一体化",
+                    "url": "http://192.168.51.110:9201/qzx-grgzt/home",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-uxuny11h",
+                    "name": "情指行一体化(开发)",
+                    "url": "http://172.16.100.145:9201/login",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-l7id0r8g",
+                    "name": "AI演示系统",
+                    "url": "http://192.168.52.220:8000/#/home",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-utav4fcy",
+                    "name": "OA系统",
+                    "url": "http://oa.chinaoly.com/seeyon/main.do?method=main",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-joiyptxt",
+                    "name": "队伍监管",
+                    "url": "http://172.16.100.119/#/home",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-2anocjmr",
+                    "name": "智能推演",
+                    "url": "http://192.168.52.220:9400/#/modelShop",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-wgv3pkt4",
+                    "name": "推演室(开发)",
+                    "url": "http://192.168.0.71:7914/#/home",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-dlfgpzy0",
+                    "name": "易网办民警端（生产）",
+                    "url": "https://ewangban.police.hangzhou.gov.cn/#/login",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-8465mhlq",
+                    "name": "易网办民警端（公司）",
+                    "url": "https://192.168.0.71:20001/#/login",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-xyqiodvd",
+                    "name": "易网办管理端（公司）",
+                    "url": "https://192.168.0.71:20002/#/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-vww2qcth",
+                    "name": "易网办系统管理(生产)",
+                    "url": "https://ewangban.police.hangzhou.gov.cn/xtgl/#/login",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-c20vovyk",
+                    "name": "易网办系统管理（公司）",
+                    "url": "http://172.16.100.141:6019/#/login",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-t31vpz7e",
+                    "name": "易网办互联网版",
+                    "url": "https://192.168.0.71:20010/#/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-yjo97kxa",
+                    "name": "ChinaOly UI of Vue",
+                    "url": "http://192.168.0.71:7778/docs/vue/introduce-cn/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-sjpoirwf",
+                    "name": "ChinaOly Business of Vue",
+                    "url": "http://192.168.0.71:7779/docs/vue/introduce-cn/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-enownrgc",
+                    "name": "公司邮箱",
+                    "url": "http://mail.chinaoly.com/webmail/index2.html#mail",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-o4wfu4or",
+                    "name": "浙江省政法公共服务平台",
+                    "url": "http://zffw.zjzwfw.gov.cn/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-fycwm8ek",
+                    "name": "中国招标投标公共服务平台",
+                    "url": "https://bulletin.cebpubservice.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-689yjvq0",
+                    "name": "采购公告搜索_中国政府采购网",
+                    "url": "http://search.ccgp.gov.cn/bxsearch?searchtype=2&page_index=5&bidSort=0&buyerName=&projectId=&pinMu=0&bidType=0&dbselect=bidx&kw=%E8%BF%9C%E7%A8%8B&start_time=2020%3A12%3A10&end_time=2021%3A12%3A10&timeType=6&displayZone=&zoneId=&pppStatus=0&agentName=",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-x3y5jk4r",
+                    "name": "jira",
+                    "url": "http://192.168.51.21:8080/login.jsp",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-0m674ka5",
+                    "name": "中国法律服务网",
+                    "url": "http://www.12348.gov.cn/#/publicies/legalAid/legalAid",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-dxndc3i7",
+                    "name": "易网办互联网外网",
+                    "url": "https://mail.chinaoly.com:20010/#/login",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-l3uw1riu",
+                    "name": "国家政务服务平台",
+                    "url": "http://gjzwfw.www.gov.cn/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-xrjsk0rp",
+                    "name": "上云工具",
+                    "url": "http://172.16.100.141:7100/#/login",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-bn3k7pxk",
+                    "name": "数据中台",
+                    "url": "http://192.168.51.44:85/#/login",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-fmj8adha",
+                    "name": "大数据处理平台",
+                    "url": "http://192.168.52.87:6108/#/login",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-0fk8j16i",
+                    "name": "数据中台",
+                    "url": "http://172.16.100.141:1999/home/#/login",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-iswxa2rl",
+                    "name": "乾坤大数据操作系统 - 产品及服务 - 美亚柏科",
+                    "url": "https://www.300188.cn/products/detail/103.html",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-jkmsyqak",
+                    "name": "消息场景",
+                    "url": "https://bops-jcss.police.hangzhou.gov.cn/#/mobile-opts-message/bizList",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-92kqan9e",
+                    "name": "应用开放平台",
+                    "url": "https://op-jcss.police.hangzhou.gov.cn/mobile/app/management/deploy/200500210/%E6%98%93%E7%BD%91%E5%8A%9E?codeStrategy=PLATFORM",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-0wtymmgs",
+                    "name": "国务院政策文件库-文件搜索_中国政府网",
+                    "url": "http://sousuo.gov.cn/s.htm?t=zhengcelibrary&q=%E6%94%BF%E5%8A%A1%E6%9C%8D%E5%8A%A1",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-123vfyaf",
+                    "name": "易网办2.0",
+                    "url": "https://mail.chinaoly.com:20011/#/room",
+                    "type": "bookmark"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1777448882286-ciwpbkxu",
+            "name": "视频号",
+            "type": "folder",
+            "children": [
+              {
+                "id": "1777448882286-h9x039fu",
+                "name": "音视图工具",
+                "type": "folder",
+                "children": [
+                  {
+                    "id": "1777448882286-gsms4o4l",
+                    "name": "音频转文字-在线音频转文字软件-迅捷视频转换器在线",
+                    "url": "https://app.xunjieshipin.com/audio-to-text/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-b618rwxn",
+                    "name": "REECHO 睿声 - 超拟真瞬时语音克隆平台",
+                    "url": "https://dash.reecho.cn/generate",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-xmupcfgt",
+                    "name": "在线繁体字转换工具",
+                    "url": "https://www.aies.cn/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-azuj29kg",
+                    "name": "在线音频混合器和转换器-编辑，转换和压缩音频文件",
+                    "url": "https://www.audio2edit.com/zh",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-i3f4852i",
+                    "name": "图片转文字在线 - 图片文字提取 - 网页OCR文字识别 - 白描网页版",
+                    "url": "https://web.baimiaoapp.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-dgfb27q0",
+                    "name": "分离人声 [AI]",
+                    "url": "https://vocalremover.org/zh/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-r5y46116",
+                    "name": "Speaking AI",
+                    "url": "https://speaking.ai/GenerateVoice?authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjo1NjA0LCJ0aW1lIjoxNjk4NDAxOTQ1MTYzLCJpYXQiOjE2OTg0MDE5NDV9.R2aWUUSGiYRCJZOCZOY_x13gpLX1XImeAL_Wm2fCepk",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777448882286-005czq3o",
+                    "name": "在线免费文字转语音 - TTSMaker官网 | 马克配音",
+                    "url": "https://ttsmaker.cn/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-2idnk14k",
+                    "name": "音频转文字-在线音频转文字软件-迅捷视频转换器在线",
+                    "url": "https://app.xunjieshipin.com/audio-to-text/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-fdtwwj18",
+                    "name": "REECHO 睿声 - 超拟真瞬时语音克隆平台",
+                    "url": "https://dash.reecho.cn/generate",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-rkwcbeuc",
+                    "name": "在线繁体字转换工具",
+                    "url": "https://www.aies.cn/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-df628ooj",
+                    "name": "在线音频混合器和转换器-编辑，转换和压缩音频文件",
+                    "url": "https://www.audio2edit.com/zh",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-ep691pz7",
+                    "name": "图片转文字在线 - 图片文字提取 - 网页OCR文字识别 - 白描网页版",
+                    "url": "https://web.baimiaoapp.com/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-0aqihky0",
+                    "name": "分离人声 [AI]",
+                    "url": "https://vocalremover.org/zh/",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-l49pihly",
+                    "name": "Speaking AI",
+                    "url": "https://speaking.ai/GenerateVoice?authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjo1NjA0LCJ0aW1lIjoxNjk4NDAxOTQ1MTYzLCJpYXQiOjE2OTg0MDE5NDV9.R2aWUUSGiYRCJZOCZOY_x13gpLX1XImeAL_Wm2fCepk",
+                    "type": "bookmark"
+                  },
+                  {
+                    "id": "1777457284941-4ad3k3f6",
+                    "name": "在线免费文字转语音 - TTSMaker官网 | 马克配音",
+                    "url": "https://ttsmaker.cn/",
+                    "type": "bookmark"
+                  }
+                ]
+              },
+              {
+                "id": "1777448882286-n73ztq1v",
+                "name": "西瓜创作平台",
+                "url": "https://studio.ixigua.com/content?tab=video&investigation_param=cover_edited",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-vf07tkve",
+                "name": "抖音创作服务平台",
+                "url": "https://creator.douyin.com/creator-micro/content/manage",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-ed36wq8v",
+                "name": "视频号更新记录",
+                "url": "https://shimo.im/sheets/KlkKv4levVCeROqd/MODOC",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-v76gvfkm",
+                "name": "西瓜创作平台",
+                "url": "https://studio.ixigua.com/content?tab=video&investigation_param=cover_edited",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-655xe4e5",
+                "name": "抖音创作服务平台",
+                "url": "https://creator.douyin.com/creator-micro/content/manage",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-0019u9tq",
+                "name": "视频号更新记录",
+                "url": "https://shimo.im/sheets/KlkKv4levVCeROqd/MODOC",
+                "type": "bookmark"
+              }
+            ]
+          },
+          {
+            "id": "1777448882286-gi2zsse0",
+            "name": "影视网站",
+            "type": "folder",
+            "children": [
+              {
+                "id": "1777448882286-pzgjgpgc",
+                "name": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+                "url": "https://www.bilibili.com/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-uyq9au0y",
+                "name": "央视网数智频道-人工智能",
+                "url": "https://5gai.cctv.com/AI/index.shtml",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777448882286-2qfp3klb",
+                "name": "国产动漫片库精选_国产动漫年份筛选-樱花动漫",
+                "url": "https://www.yhtd.cc/vod/list/1/228/0/0/0/0/0/0",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-2wmc1tc1",
+                "name": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+                "url": "https://www.bilibili.com/",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-eo6wj0j7",
+                "name": "央视网数智频道-人工智能",
+                "url": "https://5gai.cctv.com/AI/index.shtml",
+                "type": "bookmark"
+              },
+              {
+                "id": "1777457284941-tpn3mjyk",
+                "name": "国产动漫片库精选_国产动漫年份筛选-樱花动漫",
+                "url": "https://www.yhtd.cc/vod/list/1/228/0/0/0/0/0/0",
+                "type": "bookmark"
+              }
+            ],
+            "icon": "🎥"
+          }
+        ]
+      },
+      {
+        "id": "1777448882286-j9naps39",
+        "name": "插件迷 - Chrome插件下载 扩展推荐 crx下载",
+        "url": "https://www.chajianmi.com/",
+        "type": "bookmark"
+      },
+      {
+        "id": "1777448882286-t7qixjal",
+        "name": "SetupVPN - Lifetime Free VPN Chrome 扩展下载 - 插件迷",
+        "url": "https://www.chajianmi.com/xiazai/oofgbpoabipfcfjapgnbbjjaenockbdp",
+        "type": "bookmark"
+      },
+      {
+        "id": "1777448882286-ynmj87zu",
+        "name": "PrivadoVPN Plans",
+        "url": "https://signup.privadovpn.com/",
+        "type": "bookmark"
+      },
+      {
+        "id": "1777448882286-3d70cc15",
+        "name": "音频转换器 (在线自由) — Convertio",
+        "url": "https://convertio.co/zh/audio-converter/",
+        "type": "bookmark"
+      },
+      {
+        "id": "1777448882286-3bc4msra",
+        "name": "调节音量 - 在线调整视频音量大小 - 迅捷视频官网",
+        "url": "https://www.xunjieshipin.com/video-setvolume",
+        "type": "bookmark"
+      },
+      {
+        "id": "1777448882286-6q3rq8rw",
+        "name": "获取虚拟电话号码。 临时号码。 通过短信激活服务",
+        "url": "https://sms-activate.org/getNumber",
+        "type": "bookmark"
+      },
+      {
+        "id": "1777448882286-50tdalv3",
+        "name": "帐户",
+        "url": "https://app.privadovpn.com/zh-cn/admin-panel",
+        "type": "bookmark"
+      },
+      {
+        "id": "1777448882286-qe4gv7ma",
+        "name": "Temp Mail - 临时性 - 匿名电子邮件",
+        "url": "https://temp-mail.org/zh/",
+        "type": "bookmark"
+      },
+      {
+        "id": "1777457284941-jcyy7ilu",
+        "name": "插件迷 - Chrome插件下载 扩展推荐 crx下载",
+        "url": "https://www.chajianmi.com/",
+        "type": "bookmark"
+      },
+      {
+        "id": "1777457284941-qvauxt0k",
+        "name": "SetupVPN - Lifetime Free VPN Chrome 扩展下载 - 插件迷",
+        "url": "https://www.chajianmi.com/xiazai/oofgbpoabipfcfjapgnbbjjaenockbdp",
+        "type": "bookmark"
+      },
+      {
+        "id": "1777457284941-pv6zg7sc",
+        "name": "PrivadoVPN Plans",
+        "url": "https://signup.privadovpn.com/",
+        "type": "bookmark"
+      },
+      {
+        "id": "1777457284941-28vv1uog",
+        "name": "音频转换器 (在线自由) — Convertio",
+        "url": "https://convertio.co/zh/audio-converter/",
+        "type": "bookmark"
+      },
+      {
+        "id": "1777457284941-88qr6ij2",
+        "name": "调节音量 - 在线调整视频音量大小 - 迅捷视频官网",
+        "url": "https://www.xunjieshipin.com/video-setvolume",
+        "type": "bookmark"
+      },
+      {
+        "id": "1777457284941-xquwchti",
+        "name": "获取虚拟电话号码。 临时号码。 通过短信激活服务",
+        "url": "https://sms-activate.org/getNumber",
+        "type": "bookmark"
+      },
+      {
+        "id": "1777457284941-4nwpksjg",
+        "name": "帐户",
+        "url": "https://app.privadovpn.com/zh-cn/admin-panel",
+        "type": "bookmark"
+      },
+      {
+        "id": "1777457284941-6h7sas7k",
+        "name": "Temp Mail - 临时性 - 匿名电子邮件",
+        "url": "https://temp-mail.org/zh/",
+        "type": "bookmark"
+      }
+    ]
+  },
+  "clickStats": {
+    "https://openrouter.ai/activity": {
+      "count": 1,
+      "title": "Activity | OpenRou"
+    },
+    "https://bigezhang.com/column/5b1413f5e58e1579180cc572": {
+      "count": 1,
+      "title": "7个帮你提高设计审美的网站|比格张-发现更好的资源"
+    }
+  }
+}
